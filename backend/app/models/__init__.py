@@ -19,3 +19,4 @@ from app.models.diary_entry import DiaryEntry
 from app.models.label import Label
 from app.models.diary_entry_label import DiaryEntryLabel
 from app.models.calendar_event import CalendarEvent
+from app.models.oauth_account import OAuthAccount
